@@ -54,11 +54,10 @@ O arquivo `guia/Guia_de_Estudo_Requisitos.html` contem um guia de estudos sobre 
 ## Estrutura do repositorio
 
 ```
-├── analise_aprofundada/           # Fichas de analise de requisitos (HTML)
-│   ├── Ficha_Requisitos_01_Google_Maps.html
-│   ├── Ficha_Requisitos_02_Airbnb.html
-│   ├── Ficha_Requisitos_03_Uber.html
-│   └── Ficha_Requisitos_04_Trello.html
+├── Ficha_Requisitos_01_Google_Maps.html
+├── Ficha_Requisitos_02_Airbnb.html
+├── Ficha_Requisitos_03_Uber.html
+├── Ficha_Requisitos_04_Trello.html
 │
 ├── guia/                          # Material de estudo
 │   ├── Guia_de_Estudo_Requisitos.html
