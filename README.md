@@ -135,6 +135,12 @@ As fichas em HTML podem ser abertas diretamente no navegador.
 - Atlassian Community. **"Concurrent Editing and Conflict Resolution in Trello"**. Atlassian Community Forum.
 - Business of Apps. **Trello Revenue and Usage Statistics 2025**. Disponivel em: businessofapps.com/data/trello-statistics.
 
+## Uso de IA neste projeto
+
+Este trabalho contou com o auxilio do Claude (Anthropic) como ferramenta de pesquisa e organizacao. A IA foi utilizada para buscar dados tecnicos nas fontes listadas acima (SEC filings, engineering blogs, documentacao oficial) e para ajudar na formatacao dos documentos.
+
+A analise em si, as decisoes de priorizacao MoSCoW, a escolha dos cenarios de excecao e as reflexoes da Secao 7 de cada ficha partiram do meu estudo e entendimento dos conceitos aprendidos em sala de aula. Usei a IA da mesma forma que usaria um buscador ou uma enciclopedia: como fonte de consulta, nao como autora do raciocinio.
+
 ## Contexto academico
 
 - **Instituicao**: Senac Minas
